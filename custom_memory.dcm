@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS66WVE4M16EBLL-70BLI
+D PSRAM 64 Mb (4M by 16b) 70 ns
+K PSRAM RAM 64Mb 4Mbx16
+F http://www.issi.com/WW/pdf/66-67WVE4M16EALL-BLL-CLL.pdf
+$ENDCMP
+#
+#End Doc Library
